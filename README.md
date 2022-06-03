@@ -1,5 +1,6 @@
 # FIFA-Metrics-Modeling
 
+Please see the following medium article for a detailed writeup on our project's goals, methedology, and results.
 [Medium Article](https://medium.com/@vishaalkumar_21306/demystifying-the-fifa-algorithm-e391bce93ec9)
 
 
